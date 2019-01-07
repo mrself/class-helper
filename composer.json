@@ -1,5 +1,5 @@
 {
-  "name": "class-helper",
+  "name": "mrself/class-helper",
   "version": "0.0.1",
   "autoload": {
     "psr-4": {
